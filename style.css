@@ -1,0 +1,109 @@
+.bild1
+{
+    max-width: 150px;
+    max-height: auto;
+    border: 3px solid black;
+    border-radius: 5px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+.div1
+{
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    grid-template-rows: 25vh 15vh 127vh 17vh;
+}
+header
+{
+    color: white;
+    background-color: black;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 7px;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.drake
+{
+    background-image:url(dragon_side.png);
+    background-repeat: no-repeat;
+    border: 3px solid black;
+    padding-top: 900px;
+    margin-top: 5px;
+}
+nav
+{
+    background-color: black;
+    border: 3px solid black;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+    text-align: center;
+    gap: 15px;
+
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    
+}
+a
+{
+    color: white;
+    margin-top: 27px;
+
+}
+main
+{
+    background-color: black;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.beatles
+{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+ .special
+{
+    margin-left: 100px;
+}
+.skunk
+{
+    margin-left: 95px;
+}   
+.alper
+{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.master
+{
+    margin-left: 100px;
+}
+.boat
+{
+    margin-left: 95px;
+}
+.s
+{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.swing
+{
+    margin-left: 100px;
+}
+.fire
+{
+    margin-left: 95px;
+}
+footer
+{
+    background-color: black;
+    color: green;
+    text-align: center;
+    border: 3px solid white;
+
+    border-radius: 5px;
+}
